@@ -122,7 +122,7 @@ export const PLAYGROUNDS: Playground[] = [
 		url: "https://pe-playground-snowy.vercel.app",
 		universe: "ebn",
 		status: "live",
-	},,
+	},
   {
     id: "he",
     name: "Hallucination Explorer",
